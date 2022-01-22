@@ -1,0 +1,16 @@
+.panda-bg-primary {
+    background-color: #fceae8;
+}
+.panda-btn-primary {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #ff4b92 100%);
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+}
+
+@media only screen and (max-width: 450px)  {
+    .carousel-item {
+        height: 400px;
+    }
+}
